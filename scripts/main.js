@@ -1,5 +1,5 @@
 (function(){
-    "use sring"
+    
     const btnSorte = document.querySelector(".s-hero-mid .btn-sortear")
     
     const paiMid = document.querySelector(".s-hero-mid .campos")
