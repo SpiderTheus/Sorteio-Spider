@@ -1,5 +1,3 @@
-(function(){
-    
     const btnSorte = document.querySelector(".s-hero-mid .btn-sortear")
     
     const paiMid = document.querySelector(".s-hero-mid .campos")
@@ -106,4 +104,3 @@
 
         btnSorte.addEventListener("click", sortear)
         btnVoltar.addEventListener("click", () => location.reload(true))
-})()
